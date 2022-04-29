@@ -4,7 +4,7 @@ html, body {
 }
 
 p{
-font-family:  arial, sans-serif
+font-family:  arial, sans-serif;
     font-size: 24px;
 }
 
@@ -27,7 +27,6 @@ hr {
 a {
   font-family: monospace, sans-serif;
   font-size: 18px;
-  align: center;
   padding: 10px 0px 20px
 }
 
@@ -56,8 +55,8 @@ a:active  { color: red;  }
   margin: auto;
 }
 .image-container {
-float: center;
-  padding: 10px 50px 20px
+float: left;
+  padding: 10px 50px 20px;
   width: 620px;
   
 }
