@@ -7,11 +7,18 @@ p{
 font-family:  arial, sans-serif;
     font-size: 24px;
 }
-
+/*h1 font style*/
 h1{
-font-family: monospace, sans-serif
+font-family: monospace, sans-serif;
   
 }
+
+h3{
+font-family: arial, sans-serif;
+  font-size: 24px;
+  color:blue;
+}
+
 /* horizontal rule or ruler line */
 hr {
   height: 2px;
@@ -63,7 +70,7 @@ float: left;
 }*/
 ul,ol{
 font-family:  arial, sans-serif;
-font-size:14px;
+font-size:18px;
 color: #105898;
 }
 
