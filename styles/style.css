@@ -7,10 +7,15 @@ p{
 font-family:  arial, sans-serif;
     font-size: 24px;
 }
-/*h1 font style*/
+/*heading font style*/
 h1{
 font-family: monospace, sans-serif;
-  
+ 
+}
+
+h2{
+font-family: monospace, sans-serif;
+  color:#105898;
 }
 
 h3{
@@ -39,7 +44,7 @@ a {
 
 a:link    { color: black;  }
 a:visited { color: red;   }
-a:hover   { color: red; }
+a:hover   { color: blue; }
 a:active  { color: white;  }
 
 
