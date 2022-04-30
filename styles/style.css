@@ -13,10 +13,6 @@ font-family: monospace, sans-serif;
  
 }
 
-h2{
-font-family: monospace, sans-serif;
-  color:#105898;
-}
 
 h3{
 font-family:  sans-serif;
@@ -59,7 +55,7 @@ a:active  { color: white;  }
 /*containers for background colors*/
 .light-background {
   background-color: #ebebeb;
-  color: #1E1E1E;
+  color: #242222;
 }
 
 .wrapper {
@@ -73,6 +69,14 @@ float: left;
   width: 320px;
   
 }*/
+
+
+h2{
+font-family: monospace, sans-serif;
+  color:#105898;
+}
+
+
 ul,ol{
 font-family:  arial, sans-serif;
 font-size:18px;
