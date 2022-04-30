@@ -65,7 +65,7 @@ float: left;
 /* additional paragraph formatting */
 .p1{
 font-family:  monospace, sans-serif;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .p2{
@@ -75,6 +75,6 @@ font-family:  script, sans-serif;
 
 ul,ol{
 font-family:  arial, sans-serif;
-font-size:18px;
+font-size:14px;
 color: #105898;
 }
