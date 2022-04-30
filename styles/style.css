@@ -8,12 +8,6 @@ font-family:  arial, sans-serif;
     font-size: 24px;
 }
 
-
-ul,ol{
-font-family:  arial, sans-serif;
-font-size:30px;
-}
-
 h1{
 font-family: monospace, sans-serif
   
@@ -28,7 +22,7 @@ hr {
   margin-bottom: 10px;
 }
 
-/* anchol element to style links*/
+/* anchor element to style links*/
 
 a {
   font-family: monospace, sans-serif;
@@ -55,7 +49,7 @@ a:active  { color: red;  }
   background-color: #ebebeb;
   color: #1E1E1E;
 }
-
+/* did not use style in final version
 .wrapper {
   width: 500px;
   margin: auto;
@@ -65,9 +59,20 @@ float: left;
   padding: 0px 10px 0px 5px;
   width: 320px;
   
-}
+}*/
 
+/* additional paragraph formatting */
 .p1{
 font-family:  monospace, sans-serif;
     font-size: 18px;
+}
+
+.p2{
+font-family:  arial, sans-serif;
+    font-size: 16px;
+}
+
+ul,ol{
+font-family:  arial, sans-serif;
+font-size:30px;
 }
