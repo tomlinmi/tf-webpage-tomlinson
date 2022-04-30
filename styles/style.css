@@ -69,12 +69,12 @@ font-family:  monospace, sans-serif;
 }
 
 .p2{
-font-family:  arial, sans-serif;
-    font-size: 16px;
+font-family:  script, sans-serif;
+    font-size: 8px;
 }
 
 ul,ol{
 font-family:  arial, sans-serif;
-font-size:24px;
-color: #105898
+font-size:18px;
+color: #105898;
 }
