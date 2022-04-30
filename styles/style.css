@@ -31,9 +31,9 @@ a {
 }
 
 a:link    { color: black;  }
-a:visited { color: white;   }
+a:visited { color: red;   }
 a:hover   { color: red; }
-a:active  { color: red;  }
+a:active  { color: white;  }
 
 
 .text-centered {
@@ -61,6 +61,12 @@ float: left;
   width: 320px;
   
 }*/
+ul,ol{
+font-family:  arial, sans-serif;
+font-size:14px;
+color: #105898;
+}
+
 
 /* additional paragraph formatting */
 .p1{
@@ -73,8 +79,3 @@ font-family:  script, sans-serif;
     font-size: 8px;
 }
 
-ul,ol{
-font-family:  arial, sans-serif;
-font-size:14px;
-color: #105898;
-}
