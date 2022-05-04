@@ -39,7 +39,7 @@ a {
 }
 
 a:link    { color: black;  }
-a:visited { color: rgb(147, 36, 36);   }
+a:visited { color: #525252;   }
 a:hover   { color: blue; }
 a:active  { color: white;  }
 
