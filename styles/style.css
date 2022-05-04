@@ -26,8 +26,8 @@ hr {
   background-color: #56a1e3;
   border: 2px solid black;
       /* size style color */
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 /* anchor element to style links*/
@@ -44,8 +44,20 @@ a:hover   { color: blue; }
 a:active  { color: white;  }
 
 
+#about{
+  text-align: center; 
+  /*margin top, right, bottom, left */
+  margin:2%, 0%, 2%, 0%;
+} 
+
+#contact{
+  text-align: center; 
+  /*margin top, right, bottom, left */
+  margin:2%, 0%, 2%, 0%;
+} 
 .text-centered {
   text-align: center;
+
 }
 /*containers for background colors*/
 .dark-background {
