@@ -12,6 +12,7 @@ h1{
 font-family: monospace, sans-serif;
 }
 
+h2,
 h3{
 font-family:  sans-serif;
   font-size: 24px;
@@ -59,7 +60,7 @@ a:active  { color: white;  }
 }
 /*containers for background colors*/
 .dark-background {
-  background-color: #105898;
+  background-color: #1679d0;
   color: white;
 }
 /*containers for background colors*/
