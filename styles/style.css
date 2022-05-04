@@ -39,7 +39,7 @@ a {
 }
 
 a:link    { color: black;  }
-a:visited { color: #ebebeb;   }
+a:visited { color:#b8860b;   }
 a:hover   { color: blue; }
 a:active  { color: white;  }
 
